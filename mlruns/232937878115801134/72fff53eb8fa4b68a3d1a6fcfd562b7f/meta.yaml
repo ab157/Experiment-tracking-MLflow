@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/232937878115801134/72fff53eb8fa4b68a3d1a6fcfd562b7f/artifacts
+end_time: 1740662602351
+entry_point_name: ''
+experiment_id: '232937878115801134'
+lifecycle_stage: active
+run_id: 72fff53eb8fa4b68a3d1a6fcfd562b7f
+run_name: unleashed-ray-500
+run_uuid: 72fff53eb8fa4b68a3d1a6fcfd562b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740662601419
+status: 4
+tags: []
+user_id: USER

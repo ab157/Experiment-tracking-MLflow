@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/232937878115801134/cec213be32ea4afe81b1d1a669a7a42d/artifacts
+end_time: 1740662695514
+entry_point_name: ''
+experiment_id: '232937878115801134'
+lifecycle_stage: active
+run_id: cec213be32ea4afe81b1d1a669a7a42d
+run_name: masked-croc-926
+run_uuid: cec213be32ea4afe81b1d1a669a7a42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740662683502
+status: 3
+tags: []
+user_id: USER

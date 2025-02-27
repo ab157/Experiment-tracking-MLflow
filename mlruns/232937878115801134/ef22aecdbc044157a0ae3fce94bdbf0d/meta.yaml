@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/232937878115801134/ef22aecdbc044157a0ae3fce94bdbf0d/artifacts
+end_time: 1740661773391
+entry_point_name: ''
+experiment_id: '232937878115801134'
+lifecycle_stage: active
+run_id: ef22aecdbc044157a0ae3fce94bdbf0d
+run_name: wise-hare-575
+run_uuid: ef22aecdbc044157a0ae3fce94bdbf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740661771783
+status: 3
+tags: []
+user_id: USER
